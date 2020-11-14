@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+
+.navbar-light .navbar-brand {
+   padding-right: 50px;
+    
+    width: 200px;
+}
+    }
+
+.navbar-light .navbar-nav .nav-link.active {
+    
+    font-size: 20px;
+    padding: 0 18px;
+}
+.nav-item {
+        padding: 0px 10px;
+    font-size: 20px;
+}
+.navbar-brand{
+    
+
+}
+
+header{
+
+}
+
+[class*=" icofont-"], [class^=icofont-] {
+    margin:15px;
+    padding: 0 15px;
+}
+.line{
+        color: #fbad1ed9;
+    font-weight: 700;
+}
+.line span{
+    padding: 5px;
+    display: block;
+    letter-spacing: 1px;
+}
+.banner-section{
+    background-image: url(../images/00.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    padding-bottom: 200px;
+    height: 120vh;
+    background-blend-mode: multiply;
+    background-color: #252525c4
+}
+
+.banner-content{
+    padding-top: 120px;
+
+}
+
+.banner-content h6{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 25px;
+     font-size: 50px;
+    letter-spacing: 3px;
+    font-family: auto;
+
+}
+.banner-content p{
+    color: white;
+    font-size: 30px;
+    color: white;
+    padding-bottom: 25px;
+    
+}
+.banner-content strong{
+    color: #B56251;
+}
+.banner-content img{
+    
+}
+.banner-content a{
+     background: #B56251;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+a:hover {
+    color: #B56251!important;
+    background-color: black;
+    }
+
+.banner-content-section{
+    background: #F3F0EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+.content{
+
+}
+.content h6{
+     letter-spacing: 1.5px;
+    font-size: 45px;
+    font-family: auto;
+    padding-bottom: 20px;
+    color: black;
+    
+}
+.content p{
+        
+    padding: 0 250px;
+    font-size: 17px;
+    font-family: auto;
+    letter-spacing: 1.5px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+
+}
+.content strong{
+    color: black;
+}
+.content span{
+        height: 2px;
+    width: 120px;
+    background: #B56251;
+    display: block;
+    margin: auto;
+
+}
+
+.banner-image{
+    padding-top: 100px;
+
+}
+.col1{
+
+}
+.col2{
+    --bs-gutter-x: 2.5rem;
+    --bs-gutter-y: 2.5rem;
+}
+
+.banner-section1{
+    background: #844A40;
+
+
+}
+.content1{
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 100px;
+
+}
+.content1 h6{
+    font-size: 45px;
+    padding-bottom: 25px;
+    font-family: auto;
+
+}
+.content1 span{
+        height: 1.5px;
+    width: 125px;
+    background: #B56251;
+    display: block;
+    margin: auto;
+}
+.content1 p{
+    font-size: 16px;
+    font-family: inherit;
+    padding: 45px 200px;
+    letter-spacing: 1.5px;
+    margin: 0;
+}
+.content1 a{
+     background: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+
+}
+.content1 img{
+    width: 60%;
+    height: 80vh;
+    background-position: center;
+    object-fit: fill;
+    padding-top: 40px;
+
+}
+.content1 a:hover{
+    background: #B56251;
+    color: white !important;;
+}
+.banner-section2{
+    background: black;
+    padding-top: 100px;
+
+}
+.content2{
+    color: white;
+
+}
+.content2 h6{
+    padding-bottom: 35px;
+    font-size: 40px;
+}
+.content2 span{
+    height: 1.5px;
+    width: 120px;
+    background: #844A40;
+    display: block;
+    margin: auto;
+}
+
+
+.content2 img{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.content2 h5{
+    font-size: 40px;
+    padding-bottom: 35px;
+    padding-top: 60px;
+}
+.banner-image2{
+    
+}
+.banner-image2{
+
+}
+.banner-image2 h4{
+    text-align: start;
+    line-height: 34px;
+    color: #844A40;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+
+}
+.banner-image2 p{
+       text-align: start;
+    font-family: inherit;
+    font-size: 17px;
+    padding-top: 15px;
+        padding-bottom: 40px;
+}
+
+.row {
+    --bs-gutter-x: 1.5rem !important;
+}
+.banner-section3{
+    padding-top:   25px;
+    padding-bottom:    50px;
+
+}
+.banner-image3{
+
+}
+.box1{
+    padding-bottom: 25px;
+
+}
+.box1 img{
+        height: 400px;
+    object-fit: cover;
+}
+.box2{
+
+}
+h1{
+    background: orange;
+    font-size: 3.5rem!important;
+        padding: 99px 0px;
+
+}
+.banner-section5{
+    background: #1B1717;
+
+
+}
+.banner-section5 img{
+    width: 120px;
+}
+.banner-section5 a{
+        padding: 10px 50px;
+    font-size: 20px;
+}
+.banner-section5 .banner-content{
+    padding-bottom: 120px;
+}
